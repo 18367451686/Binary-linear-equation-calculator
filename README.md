@@ -1,4 +1,4 @@
-# 二进制线性方程式计算器
+# 二元一次方程组计算器
 Binary linear equation calculator
 
 基于python
